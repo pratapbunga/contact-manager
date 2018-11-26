@@ -1,13 +1,13 @@
 {
-  "main.css": "pratap234337.github.io/contact-manager/static/css/main.a96dbbe4.chunk.css",
-  "main.js": "pratap234337.github.io/contact-manager/static/js/main.ffc79199.chunk.js",
-  "main.js.map": "pratap234337.github.io/contact-manager/static/js/main.ffc79199.chunk.js.map",
-  "static/js/1.e6120689.chunk.js": "pratap234337.github.io/contact-manager/static/js/1.e6120689.chunk.js",
-  "static/js/1.e6120689.chunk.js.map": "pratap234337.github.io/contact-manager/static/js/1.e6120689.chunk.js.map",
-  "runtime~main.js": "pratap234337.github.io/contact-manager/static/js/runtime~main.9bfbaf71.js",
-  "runtime~main.js.map": "pratap234337.github.io/contact-manager/static/js/runtime~main.9bfbaf71.js.map",
-  "static/css/main.a96dbbe4.chunk.css.map": "pratap234337.github.io/contact-manager/static/css/main.a96dbbe4.chunk.css.map",
-  "index.html": "pratap234337.github.io/contact-manager/index.html",
-  "precache-manifest.12e36b63a03ab65dccfb5b7912255126.js": "pratap234337.github.io/contact-manager/precache-manifest.12e36b63a03ab65dccfb5b7912255126.js",
-  "service-worker.js": "pratap234337.github.io/contact-manager/service-worker.js"
+  "main.css": "/contact-manager/static/css/main.a96dbbe4.chunk.css",
+  "main.js": "/contact-manager/static/js/main.a40fd404.chunk.js",
+  "main.js.map": "/contact-manager/static/js/main.a40fd404.chunk.js.map",
+  "static/js/1.e6120689.chunk.js": "/contact-manager/static/js/1.e6120689.chunk.js",
+  "static/js/1.e6120689.chunk.js.map": "/contact-manager/static/js/1.e6120689.chunk.js.map",
+  "runtime~main.js": "/contact-manager/static/js/runtime~main.2b8fdbf7.js",
+  "runtime~main.js.map": "/contact-manager/static/js/runtime~main.2b8fdbf7.js.map",
+  "static/css/main.a96dbbe4.chunk.css.map": "/contact-manager/static/css/main.a96dbbe4.chunk.css.map",
+  "index.html": "/contact-manager/index.html",
+  "precache-manifest.b1a8cf3ca908296a1a82dc2fcf0678d5.js": "/contact-manager/precache-manifest.b1a8cf3ca908296a1a82dc2fcf0678d5.js",
+  "service-worker.js": "/contact-manager/service-worker.js"
 }
